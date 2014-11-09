@@ -25,7 +25,7 @@ public class AddSubOperations {
 	
 	// subtract method
 	public int sub(int x, int y){
-		return y;
+		return x-y;
 	}
 	
 	
